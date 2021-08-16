@@ -1,2 +1,4 @@
 /.idea/
 /CodingChallenges.iml
+*.class
+/challenge-01/target/
