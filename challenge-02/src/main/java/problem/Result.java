@@ -9,7 +9,7 @@ public class Result {
      * Then print the respective minimum and maximum values as a single line of two space-separated long integers.
      *
      * Input: [1 2 3 4 5], Output: 10 14
-     * 
+     *
      * The function accepts INTEGER_ARRAY arr as parameter.
      */
 
