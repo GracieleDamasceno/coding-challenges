@@ -9,6 +9,7 @@
         <module>challenge-01</module>
         <module>challenge-02</module>
         <module>challenge-03</module>
+        <module>challenge-04</module>
     </modules>
     <packaging>pom</packaging>
 
