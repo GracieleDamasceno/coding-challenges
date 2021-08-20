@@ -2,7 +2,7 @@ package problem;
 
 import java.util.List;
 
-class Result {
+class Result01 {
 
     /*
      * Complete the 'plusMinus' function below.

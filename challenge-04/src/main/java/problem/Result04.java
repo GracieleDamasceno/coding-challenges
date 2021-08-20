@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Result {
+public class Result04 {
 
     /*
      * Complete the 'matchingStrings' function below.

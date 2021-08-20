@@ -3,7 +3,7 @@ package problem;
 import java.util.Collections;
 import java.util.List;
 
-public class Result {
+public class Result05 {
     /*
      * Complete the 'lonelyinteger' function below.
      *

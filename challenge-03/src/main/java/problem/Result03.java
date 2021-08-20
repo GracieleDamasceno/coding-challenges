@@ -4,7 +4,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 
-public class Result {
+public class Result03 {
 
     /*
      * Complete the 'timeConversion' function below.

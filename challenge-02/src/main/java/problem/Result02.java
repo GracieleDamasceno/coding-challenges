@@ -2,7 +2,7 @@ package problem;
 
 import java.util.List;
 
-public class Result {
+public class Result02 {
     /*
      * Complete the 'miniMaxSum' function below.
      * Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.

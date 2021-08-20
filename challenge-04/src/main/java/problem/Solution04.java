@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-public class Solution {
+public class Solution04 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -34,7 +34,7 @@ public class Solution {
         })
                 .collect(toList());
 
-        List<Integer> res = Result.matchingStrings(strings, queries);
+        List<Integer> res = Result01.matchingStrings(strings, queries);
 
         bufferedWriter.write(
                 res.stream()
