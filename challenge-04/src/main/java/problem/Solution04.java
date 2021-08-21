@@ -34,7 +34,7 @@ public class Solution04 {
         })
                 .collect(toList());
 
-        List<Integer> res = Result01.matchingStrings(strings, queries);
+        List<Integer> res = Result04.matchingStrings(strings, queries);
 
         bufferedWriter.write(
                 res.stream()

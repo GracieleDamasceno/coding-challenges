@@ -9,7 +9,7 @@ public class Solution03 {
 
         String s = bufferedReader.readLine();
 
-        String result = Result01.timeConversion(s);
+        String result = Result03.timeConversion(s);
 
         bufferedWriter.write(result);
         bufferedWriter.newLine();

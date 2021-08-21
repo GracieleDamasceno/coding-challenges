@@ -16,7 +16,7 @@ public class Solution02 {
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        Result01.miniMaxSum(arr);
+        Result02.miniMaxSum(arr);
 
         bufferedReader.close();
     }
