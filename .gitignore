@@ -1,5 +1,5 @@
 /.idea/
 /CodingChallenges.iml
 *.class
-/challenge-01/target/
-challenge-03/target/classes/
+/week-01/challenge-01/target/
+week-01/challenge-03/target/classes/
