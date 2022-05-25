@@ -1,0 +1,11 @@
+
+P
+java:S1854 "5Remove this useless assignment to local variable "n".(€é¬éûÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "m".(›–Úø
+<
+java:S1481"&Remove this unused "m" local variable.(›–Úø
+A
+java:S1481 "&Remove this unused "n" local variable.(€é¬éûÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "\\s+$" 5 times.(ÑÌ£Õúÿÿÿÿ

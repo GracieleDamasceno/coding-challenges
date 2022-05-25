@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ïœâåá/
+W
+java:S1854"5Remove this useless assignment to local variable "n".(ˆü×‘øÿÿÿÿ8şœâåá/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍ²8šøâåá/
+H
+java:S1481"&Remove this unused "n" local variable.(ˆü×‘øÿÿÿÿ8Œâåá/
+h
+java:S1192"FDefine a constant instead of duplicating this literal "\\s+$" 3 times.(ÑÌ£Õúÿÿÿÿ8¶âåá/

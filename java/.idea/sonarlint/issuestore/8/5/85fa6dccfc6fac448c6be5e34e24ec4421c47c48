@@ -1,0 +1,22 @@
+
+a	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg
+J
+java:S6212"/Declare this local variable with "var" instead.(‚ÄËÉÿÿÿÿÿ
+D
+java:S6212#"/Declare this local variable with "var" instead.(à¯y
+E
+java:S62121"/Declare this local variable with "var" instead.(„·ùÂ
+D
+java:S62124"/Declare this local variable with "var" instead.(è„Ò{
+J
+java:S6212W"/Declare this local variable with "var" instead.(öà¤ÿıÿÿÿÿ
+E
+java:S6212Y"/Declare this local variable with "var" instead.(Ô’ÚÇ
+F
+java:S6212 "/Declare this local variable with "var" instead.(ÌøÎî
+F
+java:S6212¡"/Declare this local variable with "var" instead.(ÔÍ²
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(ÔÍ²
+W	java:S125£"<This block of commented-out lines of code should be removed.(ğóõÆüÿÿÿÿ

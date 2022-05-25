@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Djps.track.ap.dependencies=false" />
+    <bytecodeTargetLevel>
+      <module name="challenge-01" target="15" />
+      <module name="challenge-02" target="15" />
+      <module name="challenge-03" target="15" />
+      <module name="challenge-04" target="15" />
+      <module name="challenge-05" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

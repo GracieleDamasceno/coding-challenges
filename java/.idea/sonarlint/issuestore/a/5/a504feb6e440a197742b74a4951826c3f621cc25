@@ -1,0 +1,16 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "n3".(ò„ÑÁøÿÿÿÿ8Çí„Öİ/
+S
+java:S1854"6Remove this useless assignment to local variable "n2".(Ô®ì½8Éí„Öİ/
+S
+java:S1854"6Remove this useless assignment to local variable "n1".(¬¤ó¢8Êí„Öİ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍ²8ğñ¬Öİ/
+D
+java:S1481"'Remove this unused "n1" local variable.(¬¤ó¢8üí„Öİ/
+D
+java:S1481"'Remove this unused "n2" local variable.(Ô®ì½8şí„Öİ/
+I
+java:S1481"'Remove this unused "n3" local variable.(ò„ÑÁøÿÿÿÿ8ÿí„Öİ/
+h
+java:S1192"FDefine a constant instead of duplicating this literal "\\s+$" 4 times.(ÑÌ£Õúÿÿÿÿ8¥î„Öİ/

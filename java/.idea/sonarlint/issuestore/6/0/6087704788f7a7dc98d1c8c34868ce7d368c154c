@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÌøÎî
+L
+java:S6212	"/Declare this local variable with "var" instead.(ÔÍ²8ƒ®±åØ/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ÔÍ²8¯Ü±åØ/
+J
+java:S6212
+"/Declare this local variable with "var" instead.(›Å©”ıÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ˆü×‘øÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(˜ˆ´øÿÿÿÿ

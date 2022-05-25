@@ -1,0 +1,18 @@
+
+a
+java:S1854"?Remove this useless assignment to local variable "playerCount".(±Ø›æúÿÿÿÿ8«Äƒ½Ù/
+a
+java:S1854"?Remove this useless assignment to local variable "rankedCount".(ÂÓÃÁÿÿÿÿÿ8¬Äƒ½Ù/
+L
+java:S6212"/Declare this local variable with "var" instead.(ÌøÎî8­Äƒ½Ù/
+L
+java:S6212"/Declare this local variable with "var" instead.(ÔÍ²8±Äƒ½Ù/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍ²8ÔÒ„½Ù/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ÂÓÃÁÿÿÿÿÿ8³Äƒ½Ù/
+Q
+java:S6212"/Declare this local variable with "var" instead.(±Ø›æúÿÿÿÿ8òÅƒ½Ù/
+R
+java:S1481"0Remove this unused "rankedCount" local variable.(ÂÓÃÁÿÿÿÿÿ8ûÅƒ½Ù/
+R
+java:S1481"0Remove this unused "playerCount" local variable.(±Ø›æúÿÿÿÿ8üÅƒ½Ù/
